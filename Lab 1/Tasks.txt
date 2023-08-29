@@ -1,0 +1,9 @@
+1) Create a python program to encrypt and decrypt using affine cipher. Take both key values from the user. 
+Ask user whether to encrypt or decrypt
+a has 12 values, as a-1 must exist. 
+Enc - y = ax + b mod 26. 
+Dec - x = a-1(y-b) mod 26
+
+2) Write a python program to encrypt and decrypt using piglatin. Move the first 2 letters of each word in a sentence to the end and add 'ay'.
+
+Use python, avoid using any external libraries.

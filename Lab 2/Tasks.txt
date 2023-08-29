@@ -1,0 +1,5 @@
+1) Write a python program to perform addition, subtraction, and multiplication in Galois fields 2^m.
+Input - m (take 3), A(x) and B(x) in polynomial form (x3 + x2 + x1 for example)
+Tasks - Consider 2^m, stick to 2^3 (so 8 polynomial terms, 0 to 7), decode user's polynomial into binary form. For multiplication, use 1011 as your irreducible polynomial. 
+
+Use python, don't use external libraries. 
